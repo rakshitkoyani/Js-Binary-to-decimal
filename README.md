@@ -1,6 +1,6 @@
 # JS ASSIGNMENT 6
 
-Click the button
+Binary to decimal conversion
 
 ### default:
 
